@@ -165,7 +165,7 @@
     },
     "Matrix": {
       "Package": "Matrix",
-      "Version": "1.6-5",
+      "Version": "1.7-4",
       "Source": "Repository",
       "Repository": "CRAN"
     },
