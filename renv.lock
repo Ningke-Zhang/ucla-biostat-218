@@ -502,7 +502,7 @@
     },
     "curl": {
       "Package": "curl",
-      "Version": "5.2.3",
+      "Version": "7.0.0",
       "Source": "Repository",
       "Repository": "CRAN"
     },
